@@ -7,16 +7,22 @@
     <title>Raymond You | Software Engineer</title>
     <meta name="description" content="Personal Website">
     <meta name="author" content="Raymond You">
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 </head>
 
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Raymond You</a>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand title-page" href="#">Raymond You</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -37,10 +43,191 @@
             </ul>
         </div>
     </nav>
-
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+    <header class="header-sc">
+        <div class="header-content">
+            <h1>Raymond You</h1>
+            <hr />
+            <p style="padding: 30px;">Welcome! Nice to meet you. Learn more about me below.</p>
+            <a href="#about" class="btn btn-secondary about-btn">About me</a>
+        </div>
+    </header>
+    <section id="about" class="about-sc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 offset-lg-2 text-ctr">
+                    <h2>About</h2>
+                    <hr />
+                    <p>My name is Raymond You and I will soon enter my final year as an undergraduate student at Northeastern University where I am pursuing a B.S. in Computer Science.</p>
+                    <p>I have multiple co-op/internship experiences ranging from startups to large corporations and from eCommerce and software to financial services. In addition, I have extensive knowledge working in an Agile environment and throughout all parts of the Software Development Life Cycle.</p>
+                    <p>I am interested in all sectors of software development ranging from the back-end, the front-end, or the middleware that encompasses them.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="skills" class="skills-sc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-ctr">
+                    <h2>Skills</h2>
+                    <hr />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-3 col-md-6 text-ctr">
+                    <div class="service-box">
+                        <h3>Frontend</h3>
+                        <ul>
+                            <li>HTML/CSS/JS (ES6)</li>
+                            <li>React</li>
+                            <li>Angular</li>
+                            <li>Phoenix</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-ctr">
+                    <div class="service-box">
+                        <h3>Backend</h3>
+                        <ul>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>C#</li>
+                            <li>Elixir</li>
+                            <li>ASP.NET</li>
+                            <li>Spring Framework</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-ctr">
+                    <div class="service-box">
+                        <h3>Database</h3>
+                        <ul>
+                            <li>SQL</li>
+                            <li>Redis</li>
+                            <li>Cassandra</li>
+                            <li>AWS S3</li>
+                            <li>ElasticSearch </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 text-ctr">
+                    <div class="service-box">
+                        <h3>Other</h3>
+                        <ul>
+                            <li>Git</li>
+                            <li>Docker</li>
+                            <li>Kubernetes</li>
+                            <li>Kafka</li>
+                            <li>Jenkins</li>
+                            <li>Ansible</li>
+                            <li>Chef</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="experience" class="experience-sc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-ctr">
+                    <h2>Experience</h2>
+                    <hr />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4 text-ctr company-left">
+                    <div class="company-my-time">
+                        <h5>Datadog</h5>
+                        <p class="experience-title">Software Engineer Intern</p>
+                        <p>August 2019 - Present</p>
+                    </div>
+                </div>
+                <div class="col-8 text-ctr">
+                    <div class="company-info-sc">
+                        <p class="company-info">Datadog is the essential monitoring platform for cloud applications. We bring together data from servers, containers, databases, and third-party services to make your stack entirely observable. These capabilities help DevOps teams avoid downtime, resolve performance issues, and ensure customers are getting the best user experience.</p>
+                        <ul class="work-wat-i-did">
+                            <li>Working on upgrading and modernizing the RBAC system and building out new endpoints</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row top-padding">
+                <div class="col-4 text-ctr company-left">
+                    <div class="company-my-time">
+                        <h5>Bank Of America</h5>
+                        <p class="experience-title">Software Engineer Intern</p>
+                        <p>June 2019 - August 2019</p>
+                    </div>
+                </div>
+                <div class="col-8 text-ctr">
+                    <div class="company-info-sc">
+                        <p class="company-info">Bank of America is one of the world’s leading financial institutions, serving individual consumers, small and middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk management products and services. Bank of America is a global leader in wealth management, corporate and investment banking and trading across a broad range of asset classes, serving corporations, governments, institutions and individuals around the world.</p>
+                        <ul class="work-wat-i-did">
+                            <li>Contributed to an internal dashboard application, building out significant components of the UI with React.js and Bootstrap, while also creating and refactoring new API endpoints</li>
+                            <li>Introduced new libraries which reduced current and future tech debt, after demoing POCs to the team</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row top-padding">
+                <div class="col-4 text-ctr company-left">
+                    <div class="company-my-time">
+                        <h5>Blueport Commerce</h5>
+                        <p class="experience-title">Software Engineer Co-op</p>
+                        <p>July 2018 - December 2018</p>
+                    </div>
+                </div>
+                <div class="col-8 text-ctr">
+                    <div class="company-info-sc">
+                        <p class="company-info">Blueport Commerce is the leading omnichannel platform for big ticket retail, used by the largest retailers in North America to build their websites, provide better shopping experiences for their customers and drive sales online and in their stores. Designed to overcome the challenges of selling furniture online, the Blueport SaaS Ecommerce Platform plugs into any furniture ERP system to quickly launch best-in-class sites fully integrated with stores.</p>
+                        <ul class="work-wat-i-did">
+                            <li>Developed reusable Angular components that receives API calls from a web application to render and display new asynchronous and responsive product detail pages</li>
+                            <li>Added multiple data visualization graphs to the test automation suite using D3.js and jQuery</li>
+                            <li>Mapped placement of orders using Dapper, increasing overall checkout process by over 20%</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="row top-padding">
+                <div class="col-4 text-ctr company-left">
+                    <div class="company-my-time">
+                        <h5>Fidelity Investments</h5>
+                        <p class="experience-title">Systems Engineer Co-op</p>
+                        <p>January 2017 - June 2017</p>
+                    </div>
+                </div>
+                <div class="col-8 text-ctr">
+                    <div class="company-info-sc">
+                        <p class="company-info">Fidelity Investments is a privately-owned investment management company that was established in 1946 as a mutual fund company. Fidelity now offers a range of services including fund distribution and investment advice, wealth management, life insurance, retirement services, and securities execution and clearance. It manages equity, fixed income, and balanced mutual funds for individual investors, businesses, financial advisors, and institutional investors.</p>
+                        <ul class="work-wat-i-did">
+                            <li>Devised and implemented a new system of documentation for all conference rooms and multimedia installations using Bash and Outlook to help reduce overall system outages and alert proper recipients</li>
+                            <li>Updated and monitored Jenkins build jobs, ensuring the continuous delivery pipeline ran smoothly</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="contact" class="contact-sc">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-ctr">
+                    <h2>Contact</h2>
+                    <hr />
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-4 text-ctr">
+                    Linkedin
+                </div>
+                <div class="col-4 text-ctr">
+                    Email
+                </div>
+                <div class="col-4 text-ctr">
+                    Github
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>

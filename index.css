@@ -167,34 +167,9 @@ a:hover {
     padding-bottom: 30px;
 }
 
-@media (max-width: 375mm) { 
-    body, a, li, p {
-        font-size: 13px !important;
-    }
-
-    .company-info-sc {
-        padding: 0 10px !important;
-    }
-
-    .work-wat-i-did {
-        margin: 0 5px !important;
-    }
-
-    .work-wat-i-did > li {
-        line-height: 17px !important;
-    }
-
-    .company-name {
-        font-size: 15px !important;
-    }
-    
-    .experience-title {
-        font-size: 12px !important;
-    }
-
-    .experience-date {
-        font-size: 12px !important;
-    }
+.bold {
+    font-weight: bolder;
+    font-size: 20px;
 }
 
 @media (max-width: 1350px) {
@@ -221,7 +196,7 @@ a:hover {
     }
     
     .dd-logo {
-        width: 65% !important;
+        width: 55% !important;
     }
     #portrait {
         width: 30%;
@@ -235,10 +210,57 @@ a:hover {
     }
     
     .dd-logo {
-        width: 100% !important;
+        width: 75% !important;
     }
 
     #portrait {
         width: 35%;
+    }
+
+    .work-wat-i-did {
+        margin-right: 8px;
+    }
+
+    body, a, li, p {
+        font-size: 14px !important;
+    }
+
+    .bold {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 500px) { 
+    body, a, li, p {
+        font-size: 13px !important;
+    }
+
+    .bold {
+        font-size: 15px;
+    }
+
+    .company-info-sc {
+        padding: 0 10px !important;
+    }
+
+    .work-wat-i-did {
+        margin: 0 5px !important;
+        padding-left: 20px !important;
+    }
+
+    .work-wat-i-did > li {
+        line-height: 17px !important;
+    }
+
+    .company-name {
+        font-size: 15px !important;
+    }
+    
+    .experience-title {
+        font-size: 12px !important;
+    }
+
+    .experience-date {
+        font-size: 12px !important;
     }
 }

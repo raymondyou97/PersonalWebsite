@@ -7,11 +7,14 @@
     <title>Raymond You | Software Engineer</title>
     <meta name="description" content="Personal Website">
     <meta name="author" content="Raymond You">
-    <!-- Personal imports -->
-    <link rel="stylesheet" href="index.css">
-    <script src="index.js"></script>
     <!-- Font awesome stuff -->
     <link href="/font-awesome/css/all.css" rel="stylesheet">
+    <!-- Animation stuff -->
+    <link rel="stylesheet" href="animate/animate.css">
+    <script src="animate/wow.min.js"></script>
+    <script>
+    new WOW().init();
+    </script>
     <!-- Favicon stuff -->
     <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
@@ -26,6 +29,10 @@
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+    <!-- Personal imports last-->
+    <link rel="stylesheet" href="index.css">
+    <script src="index.js"></script>
 </head>
 
 <body>
@@ -57,7 +64,7 @@
             <hr />
             <img id="portrait" src="images/portrait.png" alt="portrait">
             <h5 style="padding: 30px;">Hello! Nice to meet you. Learn more about me below.</h5>
-            <a href="#about" class="btn btn-secondary about-btn">About me</a>
+            <a href="#about" class="btn btn-secondary about-btn wow tada">About me</a>
         </div>
     </header>
     <section id="about" class="about-sc">
@@ -66,9 +73,9 @@
                 <div class="col-lg-8 offset-lg-2 text-ctr about-container">
                     <h2>About</h2>
                     <hr />
-                    <p>My name is Raymond You and I will soon enter my final year as an undergraduate student at Northeastern University where I am pursuing a B.S. in Computer Science.</p>
-                    <p>I currently am interning as a Software Engineer at Datadog while having multiple, other co-op/internship experiences ranging from startups to large corporations and from eCommerce and software to financial services. In addition, I have extensive knowledge working in an Agile environment and throughout all parts of the Software Development Life Cycle.</p>
-                    <p>I am interested in all sectors of software development ranging from the back-end, the front-end, or the middleware that encompasses them.</p>
+                    <p>My name is <span class="bold">Raymond You</span> and I will soon enter my final year as an undergraduate student at <span class="bold">Northeastern University</span> where I am pursuing a <span class="bold">B.S. in Computer Science.</span></p>
+                    <p>I currently am interning as a <span class="bold">Software Engineer</span> at <span class="bold">Datadog</span> while having multiple, other co-op/internship experiences ranging from startups to large corporations and from eCommerce and software to financial services. In addition, I have extensive knowledge working in an <span class="bold">Agile environment</span> and throughout all parts of the <span class="bold">Software Development Life Cycle.</span></p>
+                    <p>I am interested in all sectors of software development ranging from the <span class="bold">back-end</span>, the <span class="bold">front-end</span>, or the <span class="bold">middleware</span> that encompasses them.</p>
                 </div>
             </div>
         </div>
@@ -84,7 +91,7 @@
             <div class="row">
                 <div class="col-lg-3 col-md-6 text-ctr skills-section">
                     <div class="skills-box">
-                        <i class="fa fa-4x fa-laptop skills-icon"></i>
+                        <i class="fa fa-4x fa-laptop skills-icon wow bounceIn"></i>
                         <h3>Frontend</h3>
                         <ul>
                             <li>HTML | CSS | JS (ES6)</li>
@@ -98,7 +105,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 text-ctr skills-section">
                     <div class="skills-box">
-                        <i class="fa fa-4x fa-server skills-icon"></i>
+                        <i class="fa fa-4x fa-server skills-icon wow bounceIn" data-wow-delay="0.1s"></i>
                         <h3>Backend</h3>
                         <ul>
                             <li>Python</li>
@@ -112,7 +119,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 text-ctr skills-section">
                     <div class="skills-box">
-                        <i class="fa fa-4x fa-database skills-icon"></i>
+                        <i class="fa fa-4x fa-database skills-icon wow bounceIn" data-wow-delay="0.2s"></i>
                         <h3>Database</h3>
                         <ul>
                             <li>SQL</li>
@@ -125,7 +132,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 text-ctr skills-section">
                     <div class="skills-box">
-                        <i class="fa fa-4x fa-cogs skills-icon"></i>
+                        <i class="fa fa-4x fa-cogs skills-icon wow bounceIn" data-wow-delay="0.3s"></i>
                         <h3>Other</h3>
                         <ul>
                             <li>Docker</li>
@@ -236,13 +243,13 @@
             </div>
             <div class="row">
                 <div class="col-12 offset-lg-12 text-ctr">
-                    <a class="contact-link" href="mailto: you.r@husky.neu.edu">
+                    <a class="contact-link wow fadeInDown" href="mailto: you.r@husky.neu.edu">
                         <i class="fas fa-4x fa-envelope"></i>
                     </a>
-                    <a class="contact-link" href="https://linkedin.com/in/raymondyou97/">
+                    <a class="contact-link wow fadeInDown" data-wow-delay="0.1s" href="https://linkedin.com/in/raymondyou97/">
                         <i class="fab fa-4x fa-linkedin"></i>
                     </a>
-                    <a class="contact-link" href="https://github.com/raymondyou97">
+                    <a class="contact-link wow fadeInDown" data-wow-delay="0.2s" href="https://github.com/raymondyou97">
                         <i class="fab fa-4x fa-github"></i>
                     </a>
                 </div>

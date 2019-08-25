@@ -30,12 +30,8 @@ a:hover {
     text-decoration: none !important;
 }
 
-h3 {
-    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
-}
-
 #portrait {
-    width: 25%;
+    width: 15%;
     height: auto;
     border-radius: 50%;
 }
@@ -201,6 +197,12 @@ h3 {
     }
 }
 
+@media (max-width: 1350px) {
+    #portrait {
+        width: 25%;
+    }
+}
+
 @media (max-width: 1200px) {
     .company-logo {
         width: 60%;
@@ -221,6 +223,9 @@ h3 {
     .dd-logo {
         width: 65% !important;
     }
+    #portrait {
+        width: 30%;
+    }
 }
 
 @media (max-width: 768px) {
@@ -231,5 +236,9 @@ h3 {
     
     .dd-logo {
         width: 100% !important;
+    }
+
+    #portrait {
+        width: 35%;
     }
 }

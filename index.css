@@ -104,6 +104,11 @@ a:hover {
     font-weight: 700;
 }
 
+.nav-link:hover {
+    margin-bottom: -2px;
+    border-bottom: 2px solid #DAD7D2;
+}
+
 .title-page {
     text-transform: uppercase;
     font-weight: 700;
@@ -202,8 +207,16 @@ a:hover {
     .dd-logo {
         width: 55% !important;
     }
+
     #portrait {
         width: 30%;
+    }
+}
+
+@media (max-width: 991.5px) {
+    .nav-link {
+        width: 40%;
+        margin: auto;
     }
 }
 

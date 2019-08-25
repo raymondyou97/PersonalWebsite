@@ -1,12 +1,13 @@
 section {
-    padding: 75px 0;
+    padding: 40px 0;
 }
 
 hr {
     width: 15mm !important;
     border: none !important;
     height: 3px !important;
-    background-color: #033649 !important;
+    background-color: #666666 !important;
+    margin-bottom: 2rem !important;
 }
 
 ul {
@@ -17,6 +18,37 @@ ul {
     padding: 0;
 }
 
+body, a {
+    color: #DAD7D2 !important;
+}
+
+.collapse-icon {
+    color: #DAD7D2 !important;
+}
+
+a:hover {
+    text-decoration: none !important;
+}
+
+h3 {
+    font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
+}
+
+#portrait {
+    width: 25%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.company-logo {
+    width: 50%;
+    height: auto;
+}
+
+.dd-logo {
+    width: 32% !important;
+}
+
 .header-content {
     position: relative;
     width: 100%;
@@ -25,20 +57,29 @@ ul {
     text-align: center;
 }
 
+.navigation-bar {
+    background-color: #1A1C1D;
+    color: white;
+}
+
 .header-sc {
-    background-color: steelblue;
+    background-color: #2D5474;
 }
 
 .about-sc {
-    background-color: lightblue;
+    background-color: #17404D;
 }
 
 .skills-sc {
-    background-color: lightsteelblue;
+    background-color: #1D2F45;
 }
 
 .experience-sc {
-    background-color: aliceblue;
+    background-color: #1C1E1F;
+}
+
+.contact-sc {
+    background-color: #181A1B;
 }
 
 .text-primary {
@@ -53,8 +94,11 @@ ul {
     padding-top: 60px;
 }
 
+.nav-item {
+    padding: 0 10px;
+}
+
 .nav-link {
-    color: #222 !important;
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 700;
@@ -88,7 +132,7 @@ ul {
 }
 
 .company-left {
-    border-right: 1px solid black;
+    border-right: 1px solid #666666;
 }
 
 .company-info-sc {
@@ -105,4 +149,87 @@ ul {
     padding-left: 15px;
     font-size: 15px;
     line-height: 20px;
+}
+
+.skills-icon {
+    padding-bottom: 20px;
+}
+
+.contact-link {
+    padding: 0 25px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.navbar-toggler:focus {
+    outline: unset !important;
+}
+
+.skills-section {
+    padding-bottom: 30px;
+}
+
+@media (max-width: 375mm) { 
+    body, a, li, p {
+        font-size: 13px !important;
+    }
+
+    .company-info-sc {
+        padding: 0 10px !important;
+    }
+
+    .work-wat-i-did {
+        margin: 0 5px !important;
+    }
+
+    .work-wat-i-did > li {
+        line-height: 17px !important;
+    }
+
+    .company-name {
+        font-size: 15px !important;
+    }
+    
+    .experience-title {
+        font-size: 12px !important;
+    }
+
+    .experience-date {
+        font-size: 12px !important;
+    }
+}
+
+@media (max-width: 1200px) {
+    .company-logo {
+        width: 60%;
+        height: auto;
+    }
+    
+    .dd-logo {
+        width: 35% !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .company-logo {
+        width: 90%;
+        height: auto;
+    }
+    
+    .dd-logo {
+        width: 65% !important;
+    }
+}
+
+@media (max-width: 768px) {
+    .company-logo {
+        width: 100%;
+        height: auto;
+    }
+    
+    .dd-logo {
+        width: 100% !important;
+    }
 }

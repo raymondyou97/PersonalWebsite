@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             <p className="intro-1">
-                Hi! I'm an incoming Software Engineer at <a className="dg" href="https://datadoghq.com/">Datadog</a> where I will be working on the 
+                Hi! I'm an incoming Software Engineer at Datadog where I will be working on the 
                 backend API web team. My responsibilities will be building a clean and user-friendly API, 
                 ensuring the access control layer is rigid and sound, and keeping the authorization/authorization layer 
                 secure and performant.

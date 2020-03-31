@@ -63,13 +63,16 @@
     opacity: 0.6;
 }
 
-.dg {
-    color: mediumpurple;
+.title-name {
+    color: cornflowerblue;
 }
 
-.dg:hover {
-    color: unset;
-    text-decoration: unset;
+.blue {
+    color: midnightblue;
+}
+
+.purple {
+    color: purple;
 }
 
 @media (min-width: 992px) {

@@ -19,10 +19,7 @@ function App() {
                         <div className="col-sm" align="center">
                             <img className="portrait" alt="selfie" src={Image} width="200"/>
                             <h2 className="title-name">Raymond You</h2>
-                            <div className="title">
-                                <span className="blue">Software Engineer</span>
-                                <span> @ </span>
-                                <span className="purple">Datadog</span></div>
+                            <div className="title">Software Engineer @ Datadog</div>
                         </div>
                         <div className="col-sm bottom-col-sm" align="center">
                             <div className="intro">

@@ -67,14 +67,6 @@
     color: cornflowerblue;
 }
 
-.blue {
-    color: midnightblue;
-}
-
-.purple {
-    color: purple;
-}
-
 @media (min-width: 992px) {
     .intro-1 {
         padding-bottom: 20px;

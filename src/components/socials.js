@@ -19,7 +19,7 @@ const Socials = () => {
                     <FontAwesomeIcon icon={faEnvelope} />
                 </span>
                 <span className="social-text">
-                    <a className="social-link" href="mailto: you.r@husky.neu.edu">you.r@husky.neu.edu</a>
+                    <a className="social-link" href="mailto: raymondyou97@gmail.com">raymondyou97@gmail.com</a>
                 </span>
             </li>
             <li className="list-group-item">

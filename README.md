@@ -1,6 +1,6 @@
 # Personal Website / Blog
 
-Built using Gatsby with the [Lumen theme](https://github.com/alxshelepenok/gatsby-starter-lumen)
+Built using Gatsby with the [Lumen theme](https://github.com/alxshelepenok/gatsby-starter-lumen), hosted on a Namecheap domain, and deployed on Nginx in a VPS
 
 ## License
 The MIT License (MIT)

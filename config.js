@@ -4,8 +4,7 @@ module.exports = {
   url: 'https://raymondyou.me/',
   pathPrefix: '/',
   title: 'Raymond You',
-  subtitle: 'Software Engineer @ Datadog\nNEU \'20 Alumni\n\nI like all things tech and binging new shows.',
-  copyright: '© All rights reserved.',
+  subtitle: 'Software Engineer @ Datadog\nNEU \'20 Alumni\nI like all things tech, baking, and bingeing new shows.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-162232840-1',
@@ -16,7 +15,7 @@ module.exports = {
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About Me',
       path: '/pages/about'
     },
     {
@@ -28,7 +27,7 @@ module.exports = {
       path: '/tags'
     },
     {
-      label: 'Contact me',
+      label: 'Contact Me',
       path: '/pages/contacts'
     }
   ],
@@ -43,16 +42,6 @@ module.exports = {
       linkedin: 'raymondyou97',
       instagram: 'ray.youuuu',
       yelp: 'https://yelp.com/user_details_reviews_self?userid=WT6yryyLUiDLLcvNfwOH3A',
-      rss: '',
-      vkontakte: '',
-      telegram: '',
-      twitter: '',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
     }
   }
 };

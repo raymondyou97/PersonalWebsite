@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://raymondyou.me/',
   pathPrefix: '/',
   title: 'Raymond You',
-  subtitle: 'Software Engineer @ Datadog\nNEU \'20 Alumni\nI like all things tech, baking, and bingeing new shows.',
+  subtitle: 'Software Engineer @ Datadog\nNEU \'20 Alumni\nI like all things tech, traveling, baking, and bingeing new shows.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-162232840-1',
@@ -34,7 +34,7 @@ module.exports = {
   author: {
     name: 'Raymond You',
     photo: '/selfie.jpg',
-    bio: 'Software Engineer @ Datadog\nNEU \'20 Alumni\nI like all things tech, baking, and bingeing new shows.',
+    bio: 'Software Engineer @ Datadog\nNEU \'20 Alumni\nI like all things tech, traveling, baking, and bingeing new shows.',
     contacts: {
       email: 'raymondyou97@gmail.com',
       facebook: 'raymondyou97',

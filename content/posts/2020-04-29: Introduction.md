@@ -3,7 +3,7 @@ title: "Introduction"
 date: "2020-04-29"
 template: "post"
 draft: false
-slug: "the-birth-of-movable-type"
+slug: "introduction"
 category: "Updates"
 tags:
   - "Life"

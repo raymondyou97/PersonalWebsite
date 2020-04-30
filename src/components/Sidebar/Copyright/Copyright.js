@@ -12,7 +12,8 @@ const Copyright = () => (
         position: "absolute",
         width: "17px", 
         height: "auto",
-        paddingLeft: "5px"
+        paddingLeft: "5px",
+        marginTop: "2px"
       }}/>
   </div>
 );

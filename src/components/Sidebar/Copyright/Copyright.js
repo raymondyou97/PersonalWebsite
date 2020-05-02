@@ -10,7 +10,7 @@ const Copyright = () => (
       {
         display: "inline-block",
         position: "absolute",
-        width: "17px", 
+        width: "18px",
         height: "auto",
         paddingLeft: "5px"
       }}/>

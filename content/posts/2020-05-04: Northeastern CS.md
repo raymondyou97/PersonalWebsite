@@ -14,43 +14,41 @@ socialImage: ""
 
 ![NEU CS](/media/2020-05-04-NEU-CS.jpg)
 
-Now that I have just graduated from Northeastern with my B.S. in Computer Science, I just wanted to reflect over the past 5 years on the things I liked about the program and things I didn't like. If you are someone considering going to Northeastern for CS, I recommend you read this.
+Now that I have finally graduated from Northeastern with my B.S. and have had time to reflect, I just want to write out my thoughts on the program holistically. If you are someone considering going to Northeastern for CS, I recommend you read this.
 
-To start, the program is essentially broken down into two parts. Your typical coursework and then co-ops.
+To start, the program is essentially broken down into two parts. Your typical coursework/classes (the usual among all colleges) and then co-ops (unique to Northeastern).
 
 ## Coursework
 
 The coursework has your typical, rigorous, and complete computer science education with a good balance of theoretical and coding courses.
 
-To give you a bare idea, in your theoretical courses you learn about algorithms, Turing machines, proofs, etc. On the other land, you learn about programming, web development/software development in your coding courses. 
+In your theoretical courses you learn about stuff such as algorithms, Turing machines, logic proofs, etc. On the other side, you learn about programming, web development/software development, data structures, and more.
 
-Once again, this is very bare and minimum list. You will learn a limitless number of things that would take forever to list here.
+Not to say that these two categories are mutually exclusive, but these are the two school of thoughts that I like to use for categorization.
+
+Once again, this is very bare and minimum list. You will learn a limitless number of things that will guide you through a lifetime.
 
 ## Co-op
 
-Northeastern is different from your typical 4-year undergraduate programs as they incorporate co-ops also known as cooperative educations into the program. Co-ops are essentially longer internships, most commonly 6 months, that happen during the typical school year. You then make up the lost time from co-op by taking summer classes. Therefore, most NEU students graduate in 5 or 6 years.
+Northeastern is different from your typical 4-year undergraduate programs as they incorporate co-ops also known as cooperative educations into the program. Co-ops are essentially longer internships that happen during the typical school year. These co-ops are typically 6 months long. You then make up the lost time from co-op by taking summer classes. Therefore, most NEU students graduate in 5 or 6 years.
 
-The benefits of this are that you supposedly will learn new material in the classroom that you can bring to the job, and then you learn new material during the job that you can bring back to the classroom, and so on. You will also come out of college with multiple, valuable work experiences.
+The benefits of co-ops are that you learn new material in the classroom that you can bring back to the job and vice-versa. You come out of college with multiple, valuable work experiences in difference sectors.
 
-Northeastern also helps you a ton with your job search as for most of us, this is our first time looking for a real job and we are initially lost in the search. They provide you with training, review sessions, and interview prep.
+Northeastern also helps you a ton with your job search as for most of us, this is our first time looking for a real job. They provide you with in-depth training, review sessions, and interview prep. But most importantly, they provide you that Northeastern network that they have already built with many companies that you can leverege for job opportunities.
 
 ## Thoughts
 
-Overall, the best thing about Northeastern are the co-ops. I’m willing to bet that most NEU students would agree.
+Overall, the best thing about Northeastern are the co-ops. I’m willing to bet that most former students would agree.
 
-You learn so much important knowledge on the job that you can take away with you the rest of your life. You make a crap top of money while also not needing to pay for school tuition during that time. You graduate with multiple work experience on your resume that is invaluable to employers. You also grow not only in technical knowledge but interpersonal and intrapersonal work knowledge that can only be gained on the job. 
+You learn important technical knowledge in your field. You earn a salary while also not having to worry about school tuition. You graduate with multiple work experiences on your resume. You grow in interpersonal and intrapersonal work experience that can only be gained on the job.
 
-The courses were a hit or miss, though definitely more positive then negative. Your professor will pretty much determine how well the course is. There are courses that are taught by professors who are well past their prime in age and teaching ability and are just looking for that paycheck at the end of the day. Though, I’m sure this is common in all colleges.
-
-There are also courses that feel misaligned and misplaced in the program. For example, Software Development is a course where you learn about the SDLC, Agile, Git, testing and more and you are only able to take this course after you go on your first co-op and by that point, you have already learned all that material on the job. Another example is Embedded Design: Enabling Robotics, where you learn about embedded systems and work with MATLAB, Simulink, and robotics.
-
-These are just some small gripes I’ve had but nonetheless, the courses were overall beneficial, and I’ve learned a lot of valuable knowledge from amazing people that I will take away for the rest of my life.
+In terms of the courses and professors, they were generally fine. I'm sure any problems that students bring up about classes and professors aren't unique to Northeastern such as the professor being a horrible, or the class being impossible... I've had my fair share of professors that I love and professors that I didn't learn a single thing from.
 
 ## Final Words
 
-If you are deciding between Northeastern and MIT for your computer science education, why are you even reading this, go to MIT. But if you are truly considering Northeastern CS, come to Northeastern. You will learn the same material that your peers in other universities are also learning, but you will also come out with work experience that puts you multitudes ahead of all your peers.
+Nonetheless, if you are currently deciding between Northeastern and MIT, why are you even here, go to MIT! But if Northeastern is one of your target schools and you are considering coming, you should come (with as little OR MUCH bias as possible). You will learn about the same amount of material that your peers in other universities are learning, but also come out with valuable work experience that puts you multitudes ahead.
 
-To learn more, here are some links:
+To learn more, here are some useful links:
 
 - [NEU CS Homepage](https://www.khoury.northeastern.edu/)
 - [NEU Co-op Overview](https://www.khoury.northeastern.edu/experiential-learning/undergraduate/co-op-overview/)

@@ -3,7 +3,7 @@ title: "Creating a Personal Web Server/Website (1/3)"
 date: "2020-06-14"
 template: "post"
 draft: false
-slug: "creating-personal-webserver-and-website"
+slug: "creating-personal-webserver-and-website-1"
 category: "Guide"
 tags:
   - "Guide"
@@ -12,7 +12,7 @@ tags:
   - "Nginx"
   - "DigitalOcean"
   - "NameCheap"
-description: "How to create and host a personal website like mine!"
+description: "How to create and host a personal website like mine! Part 1/3"
 socialImage: ""
 ---
 

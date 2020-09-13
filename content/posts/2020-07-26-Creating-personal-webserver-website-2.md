@@ -74,7 +74,7 @@ For example, main is where my homepage lives and test1 would be a subpage.
 
 ```
 raymond@rebirth:~/www$ pwd
-/home/raymond/www      
+/home/raymond/www
 raymond@rebirth:~/www$ ls
 main  test1
 ```
@@ -114,12 +114,14 @@ Enable the new config by symlinking to `sites-enabled`
 
 `ln -s /etc/nginx/sites-available/raymondyou.me /etc/nginx/sites-enabled`
 
-Finally, restart Nginx. 
+Finally, restart Nginx.
 
 `service nginx restart`
 
 ### Conclusion
 
-If your DNS change from part 1 has already been propagated, you should be able to visit your webpage and it should show the default 404 Nginx error page. If not, you can manually add your host entry into `/etc/hosts` and that should work.
+If your DNS change from part 1 has already been propagated, you should be able to visit your webpage and it should show the default 404 Nginx error page. This is because we don't have an actual webpage or `index.html` at the specified location yet.
+
+If the page still fails to load, you can manually add your host entry into `/etc/hosts`. See [here](https://tldp.org/LDP/solrhe/Securing-Optimizing-Linux-RH-Edition-v1.3/chap9sec95.html) on how to do that.
 
 The next and final part of this guide will show you how to get your webpage working with any web library including vanilla Frontend, React, Angular, etc.

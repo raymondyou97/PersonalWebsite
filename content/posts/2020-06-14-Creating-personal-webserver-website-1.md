@@ -18,6 +18,13 @@ socialImage: ""
 
 ![website-design-img](/media/2020-06-14-header.png)
 
+Complete guide
+- [Part 1](https://raymondyou.me/posts/creating-personal-webserver-and-website-1)
+- [Part 2](https://raymondyou.me/posts/creating-personal-webserver-and-website-2)
+- [Part 3](https://raymondyou.me/posts/creating-personal-webserver-and-website-3)
+
+## Introduction
+
 Writing a guide on something has always been something I wanted to do as we should all be sharing knowledge with one another and what better way to ensure your knowledge on a topic than writing a guide on it! 
 
 So for my first guide, I will teach you how I deploy and provision my own personal web server so that you can host a personal website like this current website.

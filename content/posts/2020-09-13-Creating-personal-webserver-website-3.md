@@ -18,6 +18,13 @@ socialImage: ""
 
 ![website-design-img](/media/2020-06-14-header.png)
 
+Complete guide
+- [Part 1](https://raymondyou.me/posts/creating-personal-webserver-and-website-1)
+- [Part 2](https://raymondyou.me/posts/creating-personal-webserver-and-website-2)
+- [Part 3](https://raymondyou.me/posts/creating-personal-webserver-and-website-3)
+
+## Recap
+
 To recap, you should have your domain, VPS, and Nginx server set up. Last but not least, we can now setup a basic website in the language of your choice. The instructions here varies depending on what kind of web framework/tooling you choose but I will go through some basic examples with the popular web frameworks nowadays. Bear with me as my knowledge of web development isn't the greatest nowadays.
 
 ## Basic Webpage
@@ -43,6 +50,8 @@ Now, if you head to your webpage again, it should show no longer return a 404 an
 
 ## Current Blog
 
+![gatsby](/media/2020-09-13-gatsby.png)
+
 If you want something similar to this blog, I would recommend the Gatsby theme that I am currently using, [Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
 
 It is well documented and makes it effortless to create new blog posts.
@@ -53,11 +62,15 @@ Note: the files might be generated in a `build/` folder. You can just point your
 
 ## Create React App
 
+![react](/media/2020-09-13-react.png)
+
 I also really enjoy the [Create React App](https://github.com/facebook/create-react-app) provided by Facebook that makes it really easy to bootstrap a React app.
 
 The instructions are the same as for the Gatsby framework, clone and `npm run build`.
 
 ## Angular
+
+![angular](/media/2020-09-13-angular.png)
 
 Another popular framework you can choose is Angular. I prefer the [Angular CLI](https://cli.angular.io/) to easily bootstrap an Angular project, similar to the Create React App above.
 
@@ -76,3 +89,5 @@ Note: the files are generated in an output directory `dist/` rather than `build/
 That's a wrap. If you made it this far, I hope you enjoy your personal website on your self-hosted web server and learned a lot in the process! It's a lot more impressive and fun in my opinion doing all the ops work necessary rather than relying on a PaaS like Heroku or GitHub Pages.
 
 This was also my first tutorial so please leave me any feedback or comments as I would greatly appreciate it. It will help me a lot for my future guides.
+
+Thanks for reading!

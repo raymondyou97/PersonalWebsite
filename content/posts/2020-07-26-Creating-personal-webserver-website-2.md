@@ -18,6 +18,11 @@ socialImage: ""
 
 ![website-design-img](/media/2020-06-14-header.png)
 
+Complete guide
+- [Part 1](https://raymondyou.me/posts/creating-personal-webserver-and-website-1)
+- [Part 2](https://raymondyou.me/posts/creating-personal-webserver-and-website-2)
+- [Part 3](https://raymondyou.me/posts/creating-personal-webserver-and-website-3)
+
 ## Setting up our server
 
 ### SSH

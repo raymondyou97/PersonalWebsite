@@ -37,7 +37,7 @@ Link: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/
 
 - Chair: Steelcase Leap V2 ($300)
 
-I highly, highly, highly recommend getting a high-quality, ergonomics chair. You are going to be sitting down for 8 hours everyday for most of your life and if your sitting down on some cheap chair with no cushioning nor support, your going to quickly develop long-term pain. These chairs easily run for 1000 or more, but you can get a used one that's in great shape and quality from Ebay, Craigslist, Facebook Marketplace for around 250-400. Some other good options are the Herman Miller Aeron, Herman Miller Embody, Steelcase Gesture. These two brands are just very trustworthy and dependable.
+I highly, highly, highly recommend getting a high-quality, ergonomics chair. You are going to be sitting down for 8 hours everyday for most of your life and if your sitting down on some cheap chair with no cushioning nor support, your going to quickly develop long-term pain. These chairs easily run for 1000 or more, but you can get a used one that's in great shape and quality from Ebay, Craigslist, Facebook Marketplace for around 250-400. Some other good options are the Herman Miller Aeron, Herman Miller Embody, Steelcase Gesture. These two brands are just very dependable and premium.
 
 Link: https://store.steelcase.com/seating/office-chairs/leap
 
@@ -45,7 +45,7 @@ Link: https://store.steelcase.com/seating/office-chairs/leap
 
 - Monitor 1: Dell UltraSharp 27 Inch Monitor - U2719D ($439.99)
 
-Any 27 Inch IPS monitor will do. Definitely recommend IPS or TN monitors. You also probably don't need a QHD or UHD monitor as they are significantly more pricey, unless your like a graphics designer or video editor. Any of the mainstream brands will do just fine.
+Any 27 Inch IPS monitor will do. Definitely recommend IPS over TN monitors, as TN monitors have different colors depending on which angle you view it at. You also probably don't need a QHD or UHD monitor as they are significantly more pricey, unless your like a graphics designer or video editor. Any of the mainstream brands will do just fine (Dell, BenQ, HP, etc).
 
 Link: https://www.dell.com/en-us/work/shop/dell-ultrasharp-27-monitor-u2719d/apd/210-arcv/monitors-monitor-accessories
 
@@ -61,7 +61,7 @@ Link: https://www.benq.com/en-us/monitor/stylish/gw2780.html
 
 - Monitor Desk Stand: VIVO Dual LCD Monitor Desk Mount Stand ($39.95)
 
-A monitor desk stand saves so much space on your desk. Previously, my desk was super cramped and lacking in real estate as the default monitor stand takes up quite a lot of space. Would highly recommend getting something like this as well.
+A monitor desk stand saves so much space on your desk. Previously, my desk was super cramped and lacking in real estate as the default monitor stand takes up quite a lot of space. Would highly recommend.
 
 Link: https://www.amazon.com/VIVO-Monitor-Adjustable-Screens-STAND-V002/dp/B009S750LA
 
@@ -69,7 +69,7 @@ Link: https://www.amazon.com/VIVO-Monitor-Adjustable-Screens-STAND-V002/dp/B009S
 
 - Webcam: Amcrest 1080P Webcam ($39.99)
 
-This webcam is alright as it feels more like a low-end webcam. I had no choice as all the other webcams were sold out due to high demand because of Covid and this was the only one available. If I could, I would get the Logitech C920x webcam as I've had that in the past and the video was super rich and high-quality.
+This webcam is alright as it feels more like a low-end webcam. I had no choice as all the other webcams were sold out due to high demand because of Covid and this was the only one available. If I could, I would get the Logitech C920x webcam as I've had that in the past and the video was always super rich and high-quality.
 
 Link: https://www.amazon.com/Amcrest-Microphone-Computer-Streaming-Superior/dp/B085STB7FR/
 
@@ -87,7 +87,7 @@ Link: https://www.amazon.com/CalDigit-TS3-Plus-Thunderbolt-Dock/dp/B07CZPV8DF/
 
 - Mouse: Razer DeathAdder V2 ($69.99)
 
-I know Razer has a bad rep in the gaming industry but I personally love this mouse as it fits my right hand mouse grip especially well. I have large hands and this mouse is large, so it fit just right. If you don't know what mouse to get, just get the Logitech G502. I use this mouse for my gaming setup and you can never go wrong with this mouse or Logitech in general.
+I know Razer has a bad rep in the gaming industry but I personally love this mouse as it fits my right hand mouse grip especially well. I have large hands and this mouse is large, so it fit just right. If you don't know what mouse to get, just get the Logitech G502. I use this mouse for my gaming setup and you can never go wrong with this mouse or Logitech in general. Just get a mouse that fits the type of grip you have, ex. palm vs claw vs fingertip grip.
 
 Link: https://www.amazon.com/Razer-DeathAdder-Gaming-Mouse-Programmable/dp/B082G5SPR5/
 
@@ -95,7 +95,7 @@ Link: https://www.amazon.com/Razer-DeathAdder-Gaming-Mouse-Programmable/dp/B082G
 
 - Keyboard: Ducky One TKL Mechanical Keyboard ($89.99)
 
-Ever since I switched to mechanical keyboards when I was 14, I can never go back. It feels a lot nicer and comfortable typing. Won't go too in-depth here, but I would recommend getting a Tenkeyless from a reputable brand that uses mainstream switches such as Cherry, Topre, ALPS, Gateron. There are a bunch of super cheap mechnical keyboards on Amazon (< $50). Avoid those.
+Ever since I switched to mechanical keyboards when I was 14, I can never go back. It feels a lot nicer and comfortable typing. Won't go too in-depth here, but I would recommend getting a Tenkeyless from a brand that uses mainstream switches such as Cherry, Topre, ALPS, Gateron. There are a bunch of super cheap mechnical keyboards on Amazon (< $50). Avoid those.
 
 Link: https://www.duckychannel.com.tw/en/Ducky-One2-RGB-TKL
 

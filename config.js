@@ -6,11 +6,11 @@ module.exports = {
   title: 'Raymond You',
   subtitle: 'Software Engineer @ Datadog\nNEU CS \'20\nI like all things tech, traveling, baking, and bingeing new shows.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 6,
   googleAnalyticsId: 'UA-162232840-1',
   useKatex: false,
   menu: [
-    { 
+    {
       label: 'Blog',
       path: '/'
     },

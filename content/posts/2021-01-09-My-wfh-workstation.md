@@ -1,15 +1,15 @@
 ---
-title: "My WFH Home Workstation"
+title: "My WFH Workstation"
 date: "2021-01-09"
 template: "post"
 draft: false
-slug: "my-wfh-home-workstation"
+slug: "my-wfh-workstation"
 category: "WFH"
 tags:
   - "Life"
   - "Home Office"
   - "WFH"
-description: "My current WFH Home Workstation after transitioning to fully WFH due to Covid"
+description: "My current WFH Workstation after transitioning to fully WFH due to Covid"
 socialImage: ""
 ---
 
@@ -20,6 +20,7 @@ Because of working from home now, I had to get an actual home office as before, 
 So here is the list of everything you see in the pictures and some quick thoughts for some of the items.
 
 ![workstation-1](/media/2021-01-09-workstation-1.jpeg)
+
 ![workstation-2](/media/2021-01-09-workstation-2.jpeg)
 
 TLDR with costs (how much I paid) and links:
@@ -32,7 +33,7 @@ Link: https://www.upliftdesk.com/uplift-v2-standing-desk-v2-or-v2-commercial/
 
 - Chair: Steelcase Leap V2 ($300)
 
-I highly, highly, highly recommend getting a high-quality, ergonomics chair. You are going to be sitting down for 8 hours everyday for most of your life and if your sitting down on some cheap chair with no cushioning nor support, your going to quickly develop long-term pain. These chairs easily run for $1000 or more, but you can get a used one that's in great shape and quality from Ebay, Craigslist, Facebook Marketplace for ~$300 like I did. Some other good options are the Herman Miller Aeron, Herman Miller Embody, Steelcase Gesture. These two brands are great.
+I highly, highly, highly recommend getting a high-quality, ergonomics chair. You are going to be sitting down for 8 hours everyday for most of your life and if your sitting down on some cheap chair with no cushioning nor support, your going to quickly develop long-term pain. These chairs easily run for 1000 or more, but you can get a used one that's in great shape and quality from Ebay, Craigslist, Facebook Marketplace for around 250-400. Some other good options are the Herman Miller Aeron, Herman Miller Embody, Steelcase Gesture. These two brands are just very trustworthy and dependable.
 
 Link: https://store.steelcase.com/seating/office-chairs/leap
 

@@ -93,11 +93,11 @@ Link: https://www.amazon.com/Razer-DeathAdder-Gaming-Mouse-Programmable/dp/B082G
 
 ---
 
-- Keyboard: Ducky One TKL Mechanical Keyboard ($89.99)
+- Keyboard: Ducky One 2 RGB TKL RGB LED Double Shot PBT Mechanical Keyboard ($125)
 
 Ever since I switched to mechanical keyboards when I was 14, I can never go back. It feels a lot nicer and comfortable typing. Won't go too in-depth here, but I would recommend getting a Tenkeyless from a brand that uses mainstream switches such as Cherry, Topre, ALPS, Gateron. There are a bunch of super cheap mechnical keyboards on Amazon (< $50). Avoid those.
 
-Link: https://www.duckychannel.com.tw/en/Ducky-One2-RGB-TKL
+Link: https://mechanicalkeyboards.com/shop/index.php?l=product_detail&p=4284
 
 ---
 
@@ -141,4 +141,4 @@ Link: https://www.amazon.com/Tripp-Lite-Protector-INSURANCE-TLP606DMUSB/dp/B00EU
 
 ---
 
-Total: $2225.34
+Total: $2260.35

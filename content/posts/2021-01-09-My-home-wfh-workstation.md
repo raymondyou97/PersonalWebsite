@@ -3,7 +3,7 @@ title: "My WFH Home Workstation"
 date: "2021-01-09"
 template: "post"
 draft: false
-slug: "introduction"
+slug: "my-wfh-home-workstation"
 category: "WFH"
 tags:
   - "Life"

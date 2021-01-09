@@ -4,7 +4,7 @@ date: "2021-01-09"
 template: "post"
 draft: false
 slug: "my-wfh-workstation"
-category: "WFH"
+category: "Life"
 tags:
   - "Life"
   - "Home Office"
@@ -17,7 +17,7 @@ I have been remotely for almost 8 months now due to the epidemic, and overall, I
 
 Because of working from home now, I had to get an actual home office as before, I was just using random equipment and peripherals I found in the house and some beatdown chair that gave me pain after sitting down for too long.
 
-So here is the list of everything you see in the pictures and some quick thoughts for some of the items.
+Nonetheless, here is the list of everything in the pictures below and quick thoughts for each item.
 
 ![workstation-1](/media/2021-01-09-workstation-1.jpeg)
 

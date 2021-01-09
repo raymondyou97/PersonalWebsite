@@ -36,7 +36,7 @@ This guide will be 3 parts:
    2. Setting up your VPS with Nginx and other housekeeping tasks
    3. Building and deploying a quick website
 
-First things first, we need to get our VPS and domain stuff set up. The VPS will cost roughly $5 a month and the domain name will range anywhere from $10 - $50 a year depending on what domain you choose.
+First things first, we need to get our VPS and domain stuff set up. The VPS will cost roughly \$5 a month and the domain name will range anywhere from \$10 - \$50 a year depending on what domain you choose.
 
 ## Getting your VPS
 
